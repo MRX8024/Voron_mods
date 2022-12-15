@@ -1,6 +1,6 @@
 # Voron_mods
 ## Hello, this is a beta test of 9-10mm belts for voron 2.4
-#you can find me on discord - pr!zrak?!#9644
+You can find me on discord - pr!zrak?!#9644
 
 
 

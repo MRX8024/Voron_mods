@@ -1,6 +1,6 @@
 # Voron_mods
 ## Hello, this is a beta test of mantis
-#you can find me on discord - pr!zrak?!#9644
+You can find me on discord - pr!zrak?!#9644
 
 ____
 
