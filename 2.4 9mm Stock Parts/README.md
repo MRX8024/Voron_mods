@@ -9,14 +9,14 @@
 
 ____
 
-+Note, that if you flip the 2 stepper motors the other way around, they will have less distance to the pulley.
-+However, this is not critical, and not necessary.
++ Note, that if you flip the 2 stepper motors the other way around, they will have less distance to the pulley.
++ however, this is not critical, and not necessary.
 
 ____
 
 ### 4 steppers edition
 ![](https://github.com/MRX8024/Voron_mods/blob/main/2.4%209mm%20Stock%20Parts/Pictures/4m-9mm.jpg)
-![](https://github.com/MRX8024/Voron_mods/blob/main/2.4%209mm/Pictures/4m-9mm-belts.jpg)
+![](https://github.com/MRX8024/Voron_mods/blob/main/2.4%209mm%20Stock%20Parts/Pictures/4m-9mm-belts.jpg)
 
 ### 4 steppers edition pictures
 ![](https://github.com/MRX8024/Voron_mods/blob/main/2.4%209mm%20Stock%20Parts/Pictures/All.jpg)
