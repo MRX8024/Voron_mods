@@ -9,8 +9,8 @@
 
 ____
 
-+ Note, that if you flip the 2 stepper motors the other way around, they will have less distance to the pulley.
-+ however, this is not critical, and not necessary.
++ Note, that if you reverse the stepper motor, the distance to the pulley will be less.
++ However, this is not critical, and not necessary.
 
 ____
 
