@@ -1,6 +1,6 @@
 # Voron_mods
 ## Hello, this is a beta test of mantis
-You can find me on discord - pr!zrak?!#9644
+# You can find me on discord - pr!zrak?!#9644
 
 ____
 
@@ -12,7 +12,7 @@ ____
 
 ____
 
-##Pay attention to the fastening of the 5015 fan to the duct
+## Pay attention to the fastening of the 5015 fan to the duct
 ![](https://github.com/MRX8024/Voron_mods/blob/main/Mantis/Pictures/Duct.jpg)
 ![](https://github.com/MRX8024/Voron_mods/blob/main/Mantis/Pictures/Duct1.jpg)
 
